@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../JavaStudy/codewar/JavaStudy.iml" filepath="$PROJECT_DIR$/../../JavaStudy/codewar/JavaStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stepic.iml" filepath="$PROJECT_DIR$/Stepic.iml" />
+    </modules>
+  </component>
+</project>
